@@ -4,10 +4,10 @@ and less number of nodes. Whereas, Model_2 has more hidden layers and more nodes
 patience=2 on both the models in order to justify the calcuations. Remember EarlyStopping stop the epochs according to patience, 2 in our case.
 
 # important modules
-pandas
-numpy
-Dense from keras.layers
-Sequential from keras.models
-to_categorical from keras.utils
-EarlyStopping from keras.callbacks 
+1. pandas
+2. numpy
+3. Dense from keras.layers
+4. Sequential from keras.models
+5. to_categorical from keras.utils
+6. EarlyStopping from keras.callbacks 
 
